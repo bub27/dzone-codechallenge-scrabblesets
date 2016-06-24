@@ -34,11 +34,6 @@
 	</properties>
 	
 	<dependencies>
-		
-		<!-- runtime dependencies -->
-		<!-- none -->
-
-		<!-- testing dependencies -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
