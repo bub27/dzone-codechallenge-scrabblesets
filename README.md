@@ -3,7 +3,7 @@
 
 Java Code Challenge: Scrabble Sets
 ==================================
-See [https://dzone.com/articles/java-code-challenge-scrabble-sets](https://dzone.com/articles/java-code-challenge-scrabble-sets)
+See [https://dzone.com/articles/java-code-challenge-scrabble-sets](https://dzone.com/articles/java-code-challenge-scrabble-sets) for more information.
 
 Requirements
 ------------
